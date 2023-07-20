@@ -1,0 +1,28 @@
+{
+  "name": "alpinejs-component-x",
+  "version": "1.0.2",
+  "description": "The package simplifies component inclusion for Alpine.js, enabling seamless integration of dynamic and interactive elements into web projects.",
+  "keywords": [
+    "Alpine",
+    "Alpine JS",
+    "Alpine JS Plugin",
+    "Alpine JS Plugins",
+    "Alpine JS Component",
+    "Alpine JS Components",
+    "HTML Components",
+    "HTML React",
+    "Laravel",
+    "Blade",
+    "JS"
+  ],
+  "author": "Rakhat Bakytzhanov",
+  "license": "MIT",
+  "module": "dist/component.esm.js",
+  "unpkg": "dist/component.min.js",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.16.2"
+  }
+}
